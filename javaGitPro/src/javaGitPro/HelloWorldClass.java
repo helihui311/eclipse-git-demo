@@ -1,6 +1,7 @@
 package javaGitPro;
 
 public class HelloWorldClass {
+
      //this is helloWorld method
 	public void sayHelloToWorld() {
 		System.out.println("hello world.....");
@@ -10,4 +11,9 @@ public class HelloWorldClass {
          String str = "hello";
          return stra = str;
 	}
+
+       public void saySomeThing() {
+    	   System.out.println();
+       }
+
 }
