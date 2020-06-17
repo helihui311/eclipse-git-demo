@@ -5,4 +5,9 @@ public class Myclass {
     	 String str = "helihui";
     	 return str;
      }
+     
+     public String getName2() {
+    	 String str = "helihui";
+    	 return str;
+     }
 }
