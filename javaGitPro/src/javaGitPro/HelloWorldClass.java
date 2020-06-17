@@ -10,10 +10,5 @@ public class HelloWorldClass {
 	public String sayHelloWorld(String stra) {
          String str = "hello";
          return stra = str;
-	}
-
-       public void saySomeThing() {
-    	   System.out.println();
-       }
-
+	};
 }
