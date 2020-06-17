@@ -1,6 +1,6 @@
 package javaGitPro;
 
-public class HelloWorld {
+public class HelloWorldClass {
      //this is helloWorld method
 	public void sayHelloToWorld() {
 		System.out.println("hello world.....");
